@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroferreiiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroferreiiraa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreiiraa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
