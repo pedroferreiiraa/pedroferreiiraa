@@ -1,6 +1,6 @@
 # Olá, sou Pedro! 👋
 
-Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação web. Aqui você encontrará alguns dos meus projetos e contribuições.
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia. Aqui você encontrará alguns dos meus projetos e contribuições.
 
 ## 🚀 Sobre mim
 
