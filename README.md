@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia. 
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor .NET Junior com foco em soluções eficientes e escaláveis
+- 💻 Desenvolvedor .NET com foco em soluções eficientes e escaláveis
 - 🌐 Experiência em desenvolvimento full-stack
 - 📚 Sempre aprendendo e explorando novas tecnologias
 
